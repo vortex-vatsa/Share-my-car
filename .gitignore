@@ -31,8 +31,17 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+# Maven
+
+# Gradle
+.gradle/
+
+# VS Code
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+
+# Logs
+*.log
